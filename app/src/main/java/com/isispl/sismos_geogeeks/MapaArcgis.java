@@ -68,7 +68,7 @@ public class MapaArcgis extends AppCompatActivity {
         profundidades = new ArrayList<>();
         fechas = new ArrayList<>();
         magnitudes = new ArrayList<>();
-        ArcGISRuntimeEnvironment.setLicense("runtimelite,1000,rud9088059687,none,HC5X0H4AH4YDXH46C082");
+        ArcGISRuntimeEnvironment.setLicense("Acá su licencia :o");
 
         textoMap = (TextView) findViewById(R.id.TextoMapa);
         mMapView = (MapView) findViewById(R.id.mapView);
